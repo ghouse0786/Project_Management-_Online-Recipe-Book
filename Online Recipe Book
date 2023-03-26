@@ -1,0 +1,46 @@
+Project Title: Online Recipe Book
+
+Project Description: Develop an online recipe book that allows users to search for recipes, save their favorites, and share their own recipes with others. 
+The project will consist of a web application that includes a database of recipes, a user authentication system, and a user interface for searching and adding recipes.
+
+User registration and login: Users will be able to create accounts and log in to access their saved recipes and submit their own recipes.
+
+Recipe search: Users will be able to search for recipes by name, ingredient, or category.
+
+Recipe submission: Users will be able to submit their own recipes to the database, which will be reviewed by an administrator before being published.
+
+Recipe rating and commenting: Users will be able to rate and comment on recipes, which will help others decide which recipes to try.
+
+Social sharing: Users will be able to share recipes on social media platforms like Facebook and Twitter.
+
+
+Project Deliverables:
+
+Functional online recipe book web application.
+
+User documentation and tutorial videos to help users navigate the website.
+
+Test cases and testing report.
+
+A detailed project report outlining the project objectives, design, implementation, and testing.
+
+Source code and database dump.
+
+Presentation for final submission.
+
+Project Timeline:
+
+Week 1-2: Project planning and requirement gathering.
+
+Week 3-4: Design and development of the user authentication system and recipe submission form.
+
+Week 5-6: Development of recipe search and listing features.
+
+Week 7-8: Integration of rating, commenting, and social sharing features.
+
+Week 9-10: Testing and bug fixing.
+
+Week 11-12: Finalizing the project report and presentation.
+
+
+
